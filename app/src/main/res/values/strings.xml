@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OrderNotifier</string>
+    <string name="about_text">The Order Notifier app helps your business streamline your queueing system!
+        When implemented into your business, it will be able to create a virtual line where
+        customers can leverage their devices for checking in, form filling, and notifying
+        all from a simple app.</string>
+</resources>
