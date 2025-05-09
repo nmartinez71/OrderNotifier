@@ -1,0 +1,1 @@
+The "Images" folder in the root contain the test images of my app for testing.
